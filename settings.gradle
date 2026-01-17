@@ -1,10 +1,6 @@
-pluginManagement {
-	repositories {
-		maven {
-			name = 'Fabric'
-			url = 'https://maven.fabricmc.net/'
-		}
-		mavenCentral()
-		gradlePluginPortal()
-	}
-}
+Minecraft Version: 1.21.x
+Mod Loader: Fabric
+Language: Java
+Build System: Gradle
+Mappings: Yarn
+Fabric API: ✔ Yes
